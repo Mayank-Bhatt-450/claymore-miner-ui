@@ -1,0 +1,128 @@
+<font color="#ffff00"> DCR - Total Speed: 2787.276 Mh/s, Total Shares: 15622(3968+3837+3939+3887), Rejected: 276
+</font><br><font color="#00ffff">ETH - Total Speed: 105.576 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.328 Mh/s, GPU1 23.476 Mh/s, GPU2 29.259 Mh/s, GPU3 23.513 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2639.388 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.210 Mh/s, GPU1 586.895 Mh/s, GPU2 731.464 Mh/s, GPU3 587.819 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.531 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=68C fan=63%, GPU2 t=69C fan=61%, GPU3 t=68C fan=63%
+<font color="#ffff00"> DCR - Total Speed: 2790.486 Mh/s, Total Shares: 15622(3968+3837+3939+3887), Rejected: 276
+</font><br><font color="#00ffff">ETH - Total Speed: 117.152 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.324 Mh/s, GPU1 29.370 Mh/s, GPU2 29.364 Mh/s, GPU3 29.095 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2928.807 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.092 Mh/s, GPU1 734.242 Mh/s, GPU2 734.095 Mh/s, GPU3 727.378 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.542 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=69C fan=64%, GPU2 t=69C fan=61%, GPU3 t=69C fan=63%
+<font color="#ffff00"> DCR - Total Speed: 2934.875 Mh/s, Total Shares: 15622(3968+3837+3939+3887), Rejected: 276
+</font><br><font color="#00ffff">ETH - Total Speed: 111.529 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.353 Mh/s, GPU1 29.338 Mh/s, GPU2 29.329 Mh/s, GPU3 23.510 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2788.230 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.812 Mh/s, GPU1 733.447 Mh/s, GPU2 733.228 Mh/s, GPU3 587.743 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.529 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=69C fan=64%, GPU2 t=69C fan=61%, GPU3 t=68C fan=63%
+<font color="#ffff00"> DCR - Total Speed: 2748.961 Mh/s, Total Shares: 15622(3968+3837+3939+3887), Rejected: 276
+</font><br><font color="#00ffff">ETH - Total Speed: 105.718 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.318 Mh/s, GPU1 23.521 Mh/s, GPU2 29.326 Mh/s, GPU3 23.553 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2642.959 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.946 Mh/s, GPU1 588.024 Mh/s, GPU2 733.155 Mh/s, GPU3 588.834 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.546 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=68C fan=64%, GPU2 t=69C fan=61%, GPU3 t=68C fan=63%
+<font color="#00ff00"> DCR: Share accepted (82 ms)!
+</font><br><font color="#00ffff">ETH - Total Speed: 117.333 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.316 Mh/s, GPU1 29.377 Mh/s, GPU2 29.328 Mh/s, GPU3 29.312 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2933.326 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.900 Mh/s, GPU1 734.434 Mh/s, GPU2 733.201 Mh/s, GPU3 732.791 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.540 Mh/s
+<font color="#00ffff">ETH - Total Speed: 117.313 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH - Total Speed: 111.516 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.312 Mh/s, GPU1 29.365 Mh/s, GPU2 29.298 Mh/s, GPU3 23.540 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2787.897 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.800 Mh/s, GPU1 734.132 Mh/s, GPU2 732.454 Mh/s, GPU3 588.511 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.575 Mh/s
+<font color="#00ffff">ETH - Total Speed: 105.576 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH - Total Speed: 111.504 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.321 Mh/s, GPU1 23.540 Mh/s, GPU2 29.283 Mh/s, GPU3 29.360 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2787.598 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.019 Mh/s, GPU1 588.511 Mh/s, GPU2 732.073 Mh/s, GPU3 733.995 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.565 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=68C fan=64%, GPU2 t=69C fan=61%, GPU3 t=69C fan=63%
+<font color="#00ffff">1 minute average ETH total speed: 111.542 Mh/s
+</font><br><font color="#ffffff">ETH: 01/16/18-15:25:34 - New job from eth-ru2.dwarfpool.com:8008
+</font><br><font color="#00ffff">ETH - Total Speed: 109.890 Mh/s, Total Shares: 24437, Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.338 Mh/s, GPU1 29.219 Mh/s, GPU2 27.781 Mh/s, GPU3 23.552 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2747.238 Mh/s, Total Shares: 15624, Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.438 Mh/s, GPU1 730.486 Mh/s, GPU2 694.515 Mh/s, GPU3 588.799 Mh/s
+</font><br><font color="#00ffff">ETH - Total Speed: 111.388 Mh/s, Total Shares: 24437(6390+6331+6281+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.174 Mh/s, GPU1 29.382 Mh/s, GPU2 29.320 Mh/s, GPU3 23.512 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2784.706 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 729.348 Mh/s, GPU1 734.552 Mh/s, GPU2 733.010 Mh/s, GPU3 587.796 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.558 Mh/s
+<font color="#ffffff">Current ETH share target: 0x0000000225c17d04 (diff: 2000MH), epoch 163(2.27GB)
+</font><br><font color="#00ff00">ETH: 01/16/18-15:25:35 - SHARE FOUND - (GPU 2)
+</font><br><font color="#00ff00">ETH: Share accepted (27 ms)!
+</font><br><font color="#00ffff">ETH - Total Speed: 109.168 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.316 Mh/s, GPU1 23.496 Mh/s, GPU2 29.309 Mh/s, GPU3 27.047 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2729.190 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.900 Mh/s, GPU1 587.409 Mh/s, GPU2 732.718 Mh/s, GPU3 676.163 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.601 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=68C fan=64%, GPU2 t=69C fan=62%, GPU3 t=69C fan=63%
+</font><br><font color="#00ffff">ETH - Total Speed: 111.182 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.328 Mh/s, GPU1 28.997 Mh/s, GPU2 29.342 Mh/s, GPU3 23.515 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2779.537 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.201 Mh/s, GPU1 724.920 Mh/s, GPU2 733.538 Mh/s, GPU3 587.878 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.556 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=69C fan=63%, GPU2 t=69C fan=61%, GPU3 t=68C fan=63%
+</font><br><font color="#00ffff">ETH - Total Speed: 111.424 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.315 Mh/s, GPU1 29.323 Mh/s, GPU2 29.326 Mh/s, GPU3 23.461 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2785.599 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.882 Mh/s, GPU1 733.064 Mh/s, GPU2 733.137 Mh/s, GPU3 586.516 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.606 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=69C fan=63%, GPU2 t=69C fan=61%, GPU3 t=69C fan=62%
+</font><br><font color="#00ffff">ETH - Total Speed: 105.688 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.319 Mh/s, GPU1 23.492 Mh/s, GPU2 29.330 Mh/s, GPU3 23.547 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2642.200 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.964 Mh/s, GPU1 587.304 Mh/s, GPU2 733.256 Mh/s, GPU3 588.676 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.595 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=53%, GPU1 t=68C fan=64%, GPU2 t=69C fan=62%, GPU3 t=68C fan=62%
+</font><br><font color="#00ffff">ETH - Total Speed: 110.259 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.359 Mh/s, GPU1 29.374 Mh/s, GPU2 27.795 Mh/s, GPU3 23.732 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2756.482 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.977 Mh/s, GPU1 734.342 Mh/s, GPU2 694.875 Mh/s, GPU3 593.288 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.569 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=54%, GPU1 t=69C fan=64%, GPU2 t=69C fan=62%, GPU3 t=69C fan=62%
+<font color="#ffff00"> DCR: GPU0 729.348 Mh/s, GPU1 734.552 Mh/s, GPU2 733.010 Mh/s, GPU3 587.796 Mh/s
+</font><br>&nbsp;<font color="#ffffff"> DCR: 01/16/18-15:25:37 - New job from dcr.coinmine.pl:2222
+</font><br><font color="#00ffff">ETH - Total Speed: 111.550 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.367 Mh/s, GPU1 29.338 Mh/s, GPU2 29.346 Mh/s, GPU3 23.499 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2788.752 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 734.178 Mh/s, GPU1 733.438 Mh/s, GPU2 733.657 Mh/s, GPU3 587.479 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.600 Mh/s
+Current DCR share target: 0x0000000006eebe9b (diff: 158GH), block #204341
+</font><br><font color="#ff00ff">GPU0 t=68C fan=54%, GPU1 t=69C fan=64%, GPU2 t=69C fan=62%, GPU3 t=68C fan=62%
+<font color="#00ffff">ETH: GPU0 29.316 Mh/s, GPU1 23.496 Mh/s, GPU2 29.309 Mh/s, GPU3 27.047 Mh/s
+</font><br><font color="#00ffff">ETH - Total Speed: 107.249 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.296 Mh/s, GPU1 23.481 Mh/s, GPU2 29.285 Mh/s, GPU3 25.187 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2681.232 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.409 Mh/s, GPU1 587.029 Mh/s, GPU2 732.118 Mh/s, GPU3 629.676 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.609 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=54%, GPU1 t=68C fan=64%, GPU2 t=69C fan=61%, GPU3 t=69C fan=63%
+<font color="#00ffff">ETH: GPU0 29.328 Mh/s, GPU1 28.997 Mh/s, GPU2 29.342 Mh/s, GPU3 23.515 Mh/s
+</font><br><font color="#00ffff">ETH - Total Speed: 108.078 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.308 Mh/s, GPU1 26.397 Mh/s, GPU2 28.880 Mh/s, GPU3 23.493 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2701.952 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.691 Mh/s, GPU1 659.928 Mh/s, GPU2 722.000 Mh/s, GPU3 587.333 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.559 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=55%, GPU1 t=68C fan=63%, GPU2 t=68C fan=61%, GPU3 t=68C fan=63%
+<font color="#00ffff">ETH: GPU0 29.315 Mh/s, GPU1 29.323 Mh/s, GPU2 29.326 Mh/s, GPU3 23.461 Mh/s
+</font><br><font color="#00ffff">ETH - Total Speed: 108.086 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.281 Mh/s, GPU1 29.314 Mh/s, GPU2 23.556 Mh/s, GPU3 25.934 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2702.143 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 732.036 Mh/s, GPU1 732.846 Mh/s, GPU2 588.911 Mh/s, GPU3 648.350 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.576 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=55%, GPU1 t=69C fan=63%, GPU2 t=68C fan=61%, GPU3 t=69C fan=63%
+<font color="#00ffff">ETH: GPU0 29.319 Mh/s, GPU1 23.492 Mh/s, GPU2 29.330 Mh/s, GPU3 23.547 Mh/s
+</font><br><font color="#00ffff">ETH - Total Speed: 105.624 Mh/s, Total Shares: 24438(6390+6331+6282+5925), Rejected: 249, Time: 121:30
+</font><br><font color="#00ffff">ETH: GPU0 29.324 Mh/s, GPU1 23.486 Mh/s, GPU2 29.311 Mh/s, GPU3 23.503 Mh/s
+</font><br>&nbsp;<font color="#ffff00"> DCR - Total Speed: 2640.605 Mh/s, Total Shares: 15624(3969+3837+3940+3887), Rejected: 276
+</font><br>&nbsp;<font color="#ffff00"> DCR: GPU0 733.110 Mh/s, GPU1 587.146 Mh/s, GPU2 732.782 Mh/s, GPU3 587.567 Mh/s
+</font><br>&nbsp;<font color="#00ffff">1 minute average ETH total speed: 111.553 Mh/s
+</font><br><font color="#ff00ff">GPU0 t=68C fan=56%, GPU1 t=68C fan=64%, GPU2 t=69C fan=62%, GPU3 t=68C fan=62%

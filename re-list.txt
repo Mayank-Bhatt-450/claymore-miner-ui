@@ -1,0 +1,15 @@
+-dpool
+-dwal
+-dpsw
+-dcoin
+-dcri
+-dcrt
+-dbg
+-logfile
+-benchmark
+-djobtimeout
+-ttdcr
+-mport
+-mpsw
+-colors
+-v
