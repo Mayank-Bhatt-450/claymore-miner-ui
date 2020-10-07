@@ -4,10 +4,10 @@
 ```
 its is gui for claymore miner u can set all the setting on this system and it autosave them and u can even see cui and gui representation of data
 Home 
-![Styleguide](https://cloud.githubusercontent.com/assets/378023/15767543/ccecf9bc-2983-11e6-9c5e-d228d39f52b0.png)
+![Styleguide](https://github.com/Mayank-Bhatt-450/claymore-miner-ui/blob/main/home.png)
 
 miner running
-![Styleguide](https://cloud.githubusercontent.com/assets/378023/15767543/ccecf9bc-2983-11e6-9c5e-d228d39f52b0.png)
+![Styleguide](https://github.com/Mayank-Bhatt-450/claymore-miner-ui/blob/main/Cape.JPG)
 
 
 ```
